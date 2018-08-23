@@ -272,7 +272,7 @@
         "id": "status.cannot_reblog"
       },
       {
-        "defaultMessage": "Favourite",
+        "defaultMessage": "Favorite",
         "id": "status.favourite"
       },
       {
@@ -390,7 +390,7 @@
         "id": "confirmations.redraft.confirm"
       },
       {
-        "defaultMessage": "Are you sure you want to delete this status and re-draft it? You will lose all replies, boosts and favourites to it.",
+        "defaultMessage": "Are you sure you want to delete this status and re-draft it? You will lose all replies, boosts and favorites to it.",
         "id": "confirmations.redraft.message"
       },
       {
@@ -538,7 +538,7 @@
         "id": "navigation_bar.follow_requests"
       },
       {
-        "defaultMessage": "Favourites",
+        "defaultMessage": "Favorites",
         "id": "navigation_bar.favourites"
       },
       {
@@ -683,7 +683,7 @@
         "id": "navigation_bar.follow_requests"
       },
       {
-        "defaultMessage": "Favourites",
+        "defaultMessage": "Favorites",
         "id": "navigation_bar.favourites"
       },
       {
@@ -878,7 +878,7 @@
         "id": "search.placeholder"
       },
       {
-        "defaultMessage": "Simple text returns statuses you have written, favourited, boosted, or have been mentioned in, as well as matching usernames, display names, and hashtags.",
+        "defaultMessage": "Simple text returns statuses you have written, favorited, boosted, or have been mentioned in, as well as matching usernames, display names, and hashtags.",
         "id": "search_popout.tips.full_text"
       },
       {
@@ -1052,7 +1052,7 @@
   {
     "descriptors": [
       {
-        "defaultMessage": "Favourites",
+        "defaultMessage": "Favorites",
         "id": "column.favourites"
       }
     ],
@@ -1115,7 +1115,7 @@
         "id": "navigation_bar.follow_requests"
       },
       {
-        "defaultMessage": "Favourites",
+        "defaultMessage": "Favorites",
         "id": "navigation_bar.favourites"
       },
       {
@@ -1271,7 +1271,7 @@
         "id": "keyboard_shortcuts.profile"
       },
       {
-        "defaultMessage": "to favourite",
+        "defaultMessage": "to favorite",
         "id": "keyboard_shortcuts.favourite"
       },
       {
@@ -1443,7 +1443,7 @@
         "id": "notifications.column_settings.follow"
       },
       {
-        "defaultMessage": "Favourites:",
+        "defaultMessage": "Favorites:",
         "id": "notifications.column_settings.favourite"
       },
       {
@@ -1464,7 +1464,7 @@
         "id": "notification.follow"
       },
       {
-        "defaultMessage": "{name} favourited your status",
+        "defaultMessage": "{name} favorited your status",
         "id": "notification.favourite"
       },
       {
@@ -1579,7 +1579,7 @@
         "id": "status.cannot_reblog"
       },
       {
-        "defaultMessage": "Favourite",
+        "defaultMessage": "Favorite",
         "id": "status.favourite"
       },
       {
@@ -1636,7 +1636,7 @@
         "id": "confirmations.redraft.confirm"
       },
       {
-        "defaultMessage": "Are you sure you want to delete this status and re-draft it? You will lose all replies, boosts and favourites to it.",
+        "defaultMessage": "Are you sure you want to delete this status and re-draft it? You will lose all replies, boosts and favorites to it.",
         "id": "confirmations.redraft.message"
       },
       {
